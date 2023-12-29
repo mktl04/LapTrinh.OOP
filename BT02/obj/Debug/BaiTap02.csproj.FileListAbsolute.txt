@@ -1,0 +1,7 @@
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\BT02\bin\Debug\BT1.exe.config
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\BT02\bin\Debug\BT1.exe
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\BT02\bin\Debug\BT1.pdb
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\BT02\obj\Debug\BaiTap02.csproj.AssemblyReference.cache
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\BT02\obj\Debug\BaiTap02.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\BT02\obj\Debug\BT1.exe
+C:\Users\User-PC\source\repos\LapTrinhHuongDoiTuong\BT02\obj\Debug\BT1.pdb
